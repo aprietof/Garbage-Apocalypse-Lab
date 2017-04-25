@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  padding: 20px;
+}
+
+span {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  margin: 0 30px;
+  padding: 20px;
+}
+
+span p {
+  text-align: center;
+}
+
+.circle {
+  border: 3px solid black;
+}
+
+img {
+  padding-top: 20px;
+  display: block;
+}
